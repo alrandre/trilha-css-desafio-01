@@ -1,0 +1,24 @@
+body {
+    background-color: beige;
+}
+
+button {
+    background-color: transparent;
+    border-color: cadetblue;
+}
+
+section {
+    width: 25rem;
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.banner {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
